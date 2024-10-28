@@ -1,4 +1,4 @@
-# Hi there,  I'm Özgün! 👋
+# Hi there, I'm Özgün! 👋
 
 ## 💫 About Me
 
