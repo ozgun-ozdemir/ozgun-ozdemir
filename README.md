@@ -21,6 +21,3 @@ I'm a passionate software developer with a focus on Python. Currently, I'm divin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ozgun-umut-ozdemir) 
 
----
-
-I’m excited to connect with fellow developers and AI enthusiasts.
