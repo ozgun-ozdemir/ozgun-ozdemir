@@ -1,6 +1,6 @@
 # Hi there, I'm Özgün! 👋
 
-## 💫 About Me
+### 💫 About Me
 
 I'm a passionate software developer with a focus on Python. Currently, I'm diving into the world of artificial intelligence and machine learning, eager to explore innovative solutions and technologies.
 
