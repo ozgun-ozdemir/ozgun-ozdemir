@@ -1,12 +1,12 @@
 # Hi there, I'm Özgün 👋
 
-I'm work in software development with a focus on Python. Currently, I'm exploring artificial intelligence and machine learning and looking into some of the related solutions and technologies..
+I’m a software developer focused on Python. Currently, I'm exploring artificial intelligence and machine learning and looking into some of the related solutions and technologies..
 
 ---
 
 ## 💫 About Me
 
-- 🔭 I'm working on machine learning models for image processing to improve visual data analysis.
+- 🔭 I'm currently working on image processing to improve visual data analysis.
 - 🌱 I'm learning about reinforcement learning and its applications in various contexts.
 - 💻 I code in Python and use libraries like TensorFlow, PyTorch, and scikit-learn.
 - 🤖 I have an interest in AI ethics and the responsible use of technology.
