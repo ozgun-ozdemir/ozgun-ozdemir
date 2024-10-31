@@ -1,6 +1,6 @@
 # Hi there, I'm Özgün 👋
 
-I’m a software developer focused on Python. Currently, I'm exploring artificial intelligence and machine learning and looking into some of the related solutions and technologies.
+I’m a recently graduated software developer focused on Python. Currently, I'm exploring artificial intelligence and machine learning and looking into some of the related solutions and technologies.
 
 ---
 
