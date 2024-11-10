@@ -1,8 +1,8 @@
-# Hi there, I'm Özgün 👋
+# 💫 About Me
 
 I’m a recently graduated software developer focused on Python. Currently, I'm exploring artificial intelligence and machine learning and looking into some of the related solutions and technologies. 
 
-<!-- ## 💫 About Me
+<!-- ## Hi there, I'm Özgün 👋
 
 - 🔭 I'm currently working on image processing to improve visual data analysis.
 - 🌱 I'm learning about reinforcement learning and its applications in various contexts.
