@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I’m a recently graduated Software Developer with a focus on Python. I’m currently exploring Artificial Intelligence and Machine Learning to understand how these technologies can solve real-world problems.
+I'm a Software Developer with a strong foundation in problem-solving and a keen interest in continuous learning. I'm always excited to dive into new technologies and tools to improve my software skills.
 
 <!-- ## Hi there, I'm Özgün 👋
 
