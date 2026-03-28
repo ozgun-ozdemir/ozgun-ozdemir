@@ -2,11 +2,9 @@
 
 Welcome to my GitHub!
 
-I'm a Software Engineer from Istanbul who enjoys building things, solving problems, and learning new things.
+I'm a Software Engineer from Istanbul who enjoys building projects, solving problems, and continuously learning new technologies. I'm currently focusing on Data Science and Machine Learning.
 
-Currently focusing on data science and machine learning.
-
-Feel free to explore my repositories.
+Feel free to explore my repositories and see my journey.
 
 ---
 
